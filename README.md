@@ -27,4 +27,5 @@
 | Model  | f1 | precision | recall |
 | ------------- | ------------- | ------------- | ------------- |
 | BERT  | 0.1 | 0.288 | 0.061  |
-| Levinshtein  | soon | soon | soon |
+| Levinshtein  | 0.263 | 0.156 | 0.833 |
+
